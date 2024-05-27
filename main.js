@@ -1,4 +1,4 @@
 const areaOfASquare = (width) => {
-  console.log("Swen");
+  console.log("Swen!");
   return width * width;
 };
